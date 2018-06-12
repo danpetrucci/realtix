@@ -1,0 +1,623 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"se",
+				"search\t(InvoicesController.php)"
+			],
+			[
+				"clien",
+				"client_number"
+			],
+			[
+				"cus",
+				"customer_portaid"
+			],
+			[
+				"I",
+				"Invoices"
+			],
+			[
+				"key",
+				"keyword\t(view.blade.php)"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"em",
+				"email_check\t(new.blade.php)"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"up",
+				"update\t(routes.php)"
+			],
+			[
+				"com",
+				"comm_tax"
+			],
+			[
+				"us",
+				"usf_tax"
+			],
+			[
+				"ite",
+				"item1_quantity"
+			],
+			[
+				"con",
+				"contact_name"
+			],
+			[
+				"phone",
+				"phone_number"
+			],
+			[
+				"create",
+				"created_at"
+			],
+			[
+				"creat",
+				"created_at\t(InvoicesController.php)"
+			],
+			[
+				"invo",
+				"invoice_number"
+			],
+			[
+				"in",
+				"invoices"
+			],
+			[
+				"ex",
+				"exceldata"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"img",
+				"imgflex"
+			],
+			[
+				"font-w",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"tb",
+				"table\tTag"
+			],
+			[
+				"In",
+				"Inmobiliaria"
+			],
+			[
+				"inmo",
+				"inmobiliarias_id"
+			],
+			[
+				"uni",
+				"unique"
+			],
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"Auth",
+				"Auth::user\t(useredit.blade.php)"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"A",
+				"Auth"
+			],
+			[
+				"inm",
+				"inmobiliarias_id"
+			],
+			[
+				"Re",
+				"Redirect"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"avatar",
+				"avatarbig"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"col-",
+				"col-md-4"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"av",
+				"avatar"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"ciudad",
+				"ciudades"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/views/inmueble/create.blade.php",
+			"settings":
+			{
+				"buffer_size": 28907,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/assets/js/vues.js",
+			"settings":
+			{
+				"buffer_size": 8553,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/migrations/2014_10_12_100000_create_password_resets_table.php",
+			"settings":
+			{
+				"buffer_size": 684,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 493.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/danyaguilar/Sites/inmoapp",
+		"/Users/danyaguilar/Sites/inmoapp/app/Providers",
+		"/Users/danyaguilar/Sites/inmoapp/database",
+		"/Users/danyaguilar/Sites/inmoapp/database/migrations",
+		"/Users/danyaguilar/Sites/inmoapp/resources/assets",
+		"/Users/danyaguilar/Sites/inmoapp/resources/assets/js",
+		"/Users/danyaguilar/Sites/inmoapp/resources/views",
+		"/Users/danyaguilar/Sites/inmoapp/resources/views/inmueble",
+		"/Users/danyaguilar/Sites/inmoapp/resources/views/layouts"
+	],
+	"file_history":
+	[
+		"/Users/danyaguilar/Sites/inmoapp/app/Providers/AppServiceProvider.php",
+		"/Users/danyaguilar/Sites/inmoapp/resources/assets/js/bootstrap.js",
+		"/Users/danyaguilar/Sites/inmoapp/config/database.php",
+		"/Users/danyaguilar/Sites/inmoapp/resources/assets/js/vues.js",
+		"/Users/danyaguilar/Sites/inmoapp/public/index.php",
+		"/Users/danyaguilar/Sites/inmoapp/resources/views/layouts/app.blade.php",
+		"/Users/danyaguilar/Sites/inmoapp/resources/views/inmueble/create.blade.php",
+		"/Users/danyaguilar/Sites/inmoapp/resources/assets/js/app.js",
+		"/Users/danyaguilar/Sites/inmoapp/app/Http/Controllers/PaisController.php",
+		"/Users/danyaguilar/Sites/inmoapp/resources/assets/js/components/Paises.vue",
+		"/Users/danyaguilar/Sites/inmoapp/gulpfile.js",
+		"/Users/danyaguilar/Sites/inmoapp/resources/assets/sass/custom_app.scss",
+		"/Users/danyaguilar/Sites/inmoapp/resources/assets/sass/variables.scss",
+		"/Users/danyaguilar/Sites/inmoapp/resources/assets/sass/login.scss",
+		"/Users/danyaguilar/Sites/inmoapp/database/migrations/2016_12_07_120944_create_inmuebles_table.php",
+		"/Users/danyaguilar/Sites/inmoapp/routes/web.php",
+		"/Users/danyaguilar/Sites/inmoapp/database/migrations/2016_12_05_230855_create_paises_table.php",
+		"/Users/danyaguilar/Sites/inmoapp/app/Paises.php",
+		"/Users/danyaguilar/Sites/inmoapp/app/Departamentos.php",
+		"/Users/danyaguilar/Sites/inmoapp/app/Municipios.php",
+		"/Users/dany/Sites/cloudxapp/app/Http/routes.php",
+		"/Users/dany/Sites/cloudxapp/public/css/customizedapp.css",
+		"/Users/dany/Sites/cloudxapp/resources/views/invoices/view.blade.php",
+		"/Users/dany/Sites/cloudxapp/app/Invoices.php",
+		"/Users/dany/Sites/cloudxapp/app/Http/Controllers/InvoicesController.php",
+		"/Users/dany/Sites/cloudxapp/resources/views/invoices/new.blade.php",
+		"/Users/dany/Sites/cloudxapp/public/css/app.css",
+		"/Users/dany/Sites/cloudxapp/resources/views/emails/invoice.blade.php",
+		"/Users/dany/Sites/cloudxapp/app/Http/Controllers/FinalClientController.php",
+		"/Users/dany/Sites/cloudxapp/resources/views/invoices/edit.blade.php",
+		"/Users/dany/Sites/cloudxapp/resources/views/company/companyedit.blade.php",
+		"/Users/dany/Documents/Projects_Sublime/Cloudxapp.sublime-project",
+		"/Users/dany/Documents/Cursos/Typescript/hola.ts",
+		"/Users/dany/Sites/cloudxapp/app/ExcelImport.php",
+		"/Users/dany/Downloads/template.html",
+		"/Users/dany/Sites/cloudxapp/app/excelImport.php",
+		"/Users/dany/Downloads/Mailchimp/Batalla_template.html",
+		"/Users/dany/Downloads/Batalla_Newsletter.html",
+		"/Users/dany/Sites/inmoapp/resources/views/auth/userlist.blade.php",
+		"/Users/dany/Sites/inmoapp/app/Http/Controllers/UserController.php",
+		"/Users/dany/Sites/inmoapp/resources/views/inmobiliaria/index.blade.php",
+		"/Users/dany/Sites/inmoapp/app/Http/Controllers/InmobiliariasController.php",
+		"/Users/dany/Sites/inmoapp/app/Http/Controllers/Auth/RegisterController.php",
+		"/Users/dany/Sites/inmoapp/resources/views/inmobiliaria/edit.blade.php",
+		"/Users/dany/Sites/inmoapp/app/Inmobiliarias.php",
+		"/Users/dany/Sites/inmoapp/database/migrations/2016_10_05_235759_inmobiliarias_nit.php",
+		"/Users/dany/Sites/inmoapp/resources/views/auth/registeruser.blade.php",
+		"/Users/dany/Sites/inmoapp/resources/views/inmobiliaria/create.blade.php",
+		"/Users/dany/Sites/inmoapp/routes/web.php",
+		"/Users/dany/Sites/inmoapp/config/mail.php",
+		"/Users/dany/Sites/inmoapp/resources/views/auth/useredit.blade.php",
+		"/Users/dany/Sites/inmoapp/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/Users/dany/Sites/inmoapp/app/Http/Controllers/HomeController.php",
+		"/Users/dany/Sites/inmoapp/resources/views/auth/login.blade.php",
+		"/Users/dany/Sites/inmoapp/database/migrations/2016_10_05_202911_users_add_status.php",
+		"/private/var/folders/bs/kwsygqds55s622r36njt4sx80000gn/T/fz3temp-2/pdfstyle.css",
+		"/private/var/folders/bs/kwsygqds55s622r36njt4sx80000gn/T/fz3temp-2/Invoicesprocessed.php",
+		"/private/var/folders/bs/kwsygqds55s622r36njt4sx80000gn/T/fz3temp-2/2016_10_02_204850_create_invoicesprocesseds_table.php",
+		"/Users/dany/Sites/inmoapp/app/User.php",
+		"/Users/dany/Sites/inmoapp/resources/views/auth/register.blade.php",
+		"/Users/dany/Sites/inmoapp/resources/views/auth/passwords/reset.blade.php",
+		"/Users/dany/Sites/inmoapp/resources/views/home.blade.php",
+		"/Users/dany/Sites/inmoapp/resources/views/auth/passwords/email.blade.php",
+		"/Users/dany/Sites/inmoapp/.env",
+		"/Users/dany/Sites/inmoapp/resources/assets/sass/variables.scss",
+		"/Users/dany/Sites/inmoapp/resources/assets/sass/login.scss",
+		"/Users/dany/Sites/inmoapp/resources/assets/sass/custom_app.scss",
+		"/Users/dany/Sites/inmoapp/resources/views/layouts/app.blade.php",
+		"/Users/dany/Sites/inmoapp/resources/views/auth/useredit.php",
+		"/Users/dany/Sites/inmoapp/config/scout.php",
+		"/Users/dany/Sites/inmoapp/config/app.php",
+		"/private/var/folders/bs/kwsygqds55s622r36njt4sx80000gn/T/fz3temp-1/new.blade.php",
+		"/private/var/folders/bs/kwsygqds55s622r36njt4sx80000gn/T/fz3temp-1/InvoicesController.php",
+		"/Users/dany/Sites/inmoapp/resources/assets/sass/app.scss"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"checked",
+			"selected",
+			".panel-default > ",
+			"#5e5e5e",
+			"tinyint",
+			"email",
+			"date",
+			"HEADER",
+			"restaurantes",
+			"imgflex",
+			"AGENDA",
+			"font",
+			"hr",
+			"option",
+			"name",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tinyInteger"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/views/inmueble/create.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28907,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27695,
+								27705
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 12279.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/assets/js/vues.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8553,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6890,
+								6890
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6713.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "database/migrations/2014_10_12_100000_create_password_resets_table.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 684,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								527,
+								527
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "inmoapp.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 342.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

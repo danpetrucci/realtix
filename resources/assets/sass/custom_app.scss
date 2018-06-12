@@ -1,0 +1,172 @@
+
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+//Media Querys
+
+// Tablets y móviles 
+
+body{
+  background-image: url('/images/icons_bk.svg');
+  background-size:400px;
+  background-repeat: repeat;
+}
+
+@media (max-width: 768px){
+    .navbar-default .navbar-brand {
+        color: #fff;
+    }
+    .navbar-toggle .collapsed{
+        border-color: #fff;
+    }
+    .navbar-default .navbar-toggle .icon-bar {
+        border-color: #fff;
+        background-color: #fff;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {color:#fff;}
+
+    .avatar{display:none;}
+}
+//Fin Media Querys
+
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+}
+
+.panel-heading{
+    font-weight:bold;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus{color: #fff;}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus{color:#333;}
+
+.avatar{
+    width:40px;
+    height:40px;
+    vertical-align: middle;
+    border-radius: 50%; 
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    margin-top: 5px;
+     }
+
+.avatarbig{
+    width: 100px; 
+    height: 100px;
+    margin-left: auto; 
+    margin-right: auto;
+    margin-bottom:17px;
+    border: 2px solid #eee;
+    border-radius: 30%; 
+    -webkit-border-radius: 30%;
+    -moz-border-radius: 30%;
+}
+
+//Search input
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+    border-right:0; 
+    box-shadow:0 0 0; 
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+
+//Labels
+label{font-weight: normal;}
+
+//Switchs
+
+/* ============================================================
+  COMMON
+============================================================ */
+.cmn-toggle {
+  position: absolute;
+  margin-left: -9999px;
+  visibility: hidden;
+}
+.cmn-toggle + label {
+  display: block;
+  position: relative;
+  cursor: pointer;
+  outline: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* ============================================================
+  SWITCH iOS
+============================================================ */
+input.cmn-toggle-round + label {
+  padding: 2px;
+  width: 40px;
+  height: 20px;
+  background-color: #dddddd;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+  border-radius: 25px;
+}
+input.cmn-toggle-round + label:before, input.cmn-toggle-round + label:after {
+  display: block;
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  bottom: 1px;
+  content: "";
+}
+input.cmn-toggle-round + label:before {
+  right: 1px;
+  background-color: #f1f1f1;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+  border-radius: 30px;
+  -webkit-transition: background 0.4s;
+  -moz-transition: background 0.4s;
+  -o-transition: background 0.4s;
+  transition: background 0.4s;
+}
+input.cmn-toggle-round + label:after {
+  width: 20px;
+  background-color: #fff;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  -ms-border-radius: 100%;
+  -o-border-radius: 100%;
+  border-radius: 100%;
+  -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  -webkit-transition: margin 0.4s;
+  -moz-transition: margin 0.4s;
+  -o-transition: margin 0.4s;
+  transition: margin 0.4s;
+}
+input.cmn-toggle-round:checked + label:before {
+  background-color: #8ce196;
+}
+input.cmn-toggle-round:checked + label:after {
+  margin-left: 20px;
+}
+
+.multiselect__tags{
+        border: 1px solid #ccc!important;
+}
