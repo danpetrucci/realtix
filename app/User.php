@@ -4,6 +4,7 @@ namespace App;
 
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Foundation\Auth\User as Authenticatable;
+use Illuminate\Database\Eloquent\softDeletes;
 
 class User extends Authenticatable
 {
@@ -16,7 +17,7 @@ class User extends Authenticatable
      * @var array
      */
     protected $fillable = [
-        'name', 'email', 'password', 'role', 'ciudad', 'telefono','inmobiliarias_id'
+        'name', 'email', 'password', 'role', 'ciudad', 'telefono','inmobiliarias_id' ,'status'
     ];
 
     /**
