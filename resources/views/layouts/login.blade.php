@@ -8,7 +8,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>MobiAgente</title>
+    <title>Realtix</title>
 
     <!-- Styles -->
     <link href="/css/app.css" rel="stylesheet">
@@ -37,7 +37,7 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                   <i class="fa fa-home" aria-hidden="true"></i> MobiAgente
+                   <i class="fa fa-home" aria-hidden="true"></i> Realtix
                 </a>
             </div>
 
