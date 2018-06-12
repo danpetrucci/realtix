@@ -6,6 +6,8 @@ use Illuminate\Database\Eloquent\Model;
 
 class Inmuebles extends Model
 {
+	use SoftDeletes;
+	
     protected fillable=[
     					'codigo',
      					'status',
@@ -69,6 +71,8 @@ class Inmuebles extends Model
 					    'caracteristicas_internas',
 					    'nota'
 					    ];
+
+	protected $dates = ['deleted_at'];
 
 	public function user()
     {

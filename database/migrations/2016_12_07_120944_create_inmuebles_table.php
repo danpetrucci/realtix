@@ -76,14 +76,15 @@ class CreateInmueblesTable extends Migration
             $table->string('nota')->nullable();
 
             $table->timestamps();
+            $table->softDeletes();
         });
 
         Schema::table('inmuebles', function($table) {
-        $table->foreign('user_id')->references('id')->on('user');
-        $table->foreign('inmobiliarias_id')->references('id')->on('inmobiliarias');
-        $table->foreign('pais_id')->references('id')->on('paises');
-        $table->foreign('departamento_id')->references('id')->on('departamentos');
-        $table->foreign('municipio_id')->references('id')->on('municipios');
+            $table->foreign('user_id')->references('id')->on('user');
+            $table->foreign('inmobiliarias_id')->references('id')->on('inmobiliarias');
+            $table->foreign('pais_id')->references('id')->on('paises');
+            $table->foreign('departamento_id')->references('id')->on('departamentos');
+            $table->foreign('municipio_id')->references('id')->on('municipios');
         });
     }
 

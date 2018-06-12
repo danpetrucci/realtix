@@ -20,6 +20,7 @@ class CreateInmobiliarias extends Migration
             $table->string('direccion')->nullable();
             $table->string('telefono')->nullable(); 
             $table->timestamps();
+            $table->softDeletes();
         });
     }
 

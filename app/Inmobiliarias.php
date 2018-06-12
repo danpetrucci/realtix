@@ -6,6 +6,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Inmobiliarias extends Model
 {
+    use SoftDeletes;
     /**
      * The attributes that are mass assignable.
      *
@@ -14,6 +15,8 @@ class Inmobiliarias extends Model
     protected $fillable = [
         'nombre', 'nit', 'pais_inmo','departamento_inmo','ciudad_inmo', 'direccion', 'telefono'
     ];
+
+    protected $dates = ['deleted_at'];
 
      public function user()
     {
