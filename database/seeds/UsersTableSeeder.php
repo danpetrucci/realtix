@@ -19,5 +19,14 @@ class UsersTableSeeder extends Seeder
             'ciudad' => 'Bogotá',
             'status' => '1'
         ]);
+
+        DB::table('users')->insert([
+            'name' => env('ADMIN_NAME_2'),
+            'email' => env('ADMIN_EMAIL_2'),
+            'password' => bcrypt(env('ADMIN_PASSWORD_2')),
+            'role' => 'Super usuario',
+            'ciudad' => 'Caracas',
+            'status' => '1'
+        ]);
     }
 }
